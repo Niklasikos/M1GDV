@@ -4,7 +4,7 @@ Mijn GDV Files en Optrachten
 
 ## Oefeningen(links)
 
-Oefeningen 1
+### Oefeningen 1
 
 ---
 
@@ -14,7 +14,12 @@ Oefeningen 1
 
 ---
 
-Oefeningen 2
+### Oefeningen 2
 
 [Oefening2_1ABC](https://github.com/Niklasikos/M1GDV/blob/main/Oefeningen_2_1%262_2/Oefeningen_2_1/Oefening2_1ABC_ScriptmatigeBeweging.md)
 
+[Oefening2_2B](https://github.com/Niklasikos/M1GDV/blob/main/Oefeningen_2_1%)
+
+---
+
+### Oefeningen 3
